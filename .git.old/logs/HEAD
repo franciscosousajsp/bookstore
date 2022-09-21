@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 8658522b64f3934196041c8c742004e5befee92e franciscosousajsp <franciscosousajsp@gmail.com> 1663530244 -0300	commit (initial): projeto inicial
+8658522b64f3934196041c8c742004e5befee92e bf121228d3497c141b7a4695b78b7ad49a2eda64 franciscosousajsp <franciscosousajsp@gmail.com> 1663531445 -0300	commit: instalação do angular material
+bf121228d3497c141b7a4695b78b7ad49a2eda64 e7298f7e9e032dd10d92309eb9f84a18c393c586 franciscosousajsp <franciscosousajsp@gmail.com> 1663552511 -0300	commit: criando categorias em listagem ao banco de dados
+e7298f7e9e032dd10d92309eb9f84a18c393c586 af1ab3336e6d5d90603aa7f0f9ef2fe48fda8c7c franciscosousajsp <franciscosousajsp@gmail.com> 1663597248 -0300	commit: melhorando da tabela categoria
+af1ab3336e6d5d90603aa7f0f9ef2fe48fda8c7c 0aaceeaad797389495e1690f71527874780a6a21 franciscosousajsp <franciscosousajsp@gmail.com> 1663637991 -0300	commit: criaçao do post create da categoria
+0aaceeaad797389495e1690f71527874780a6a21 5578359061fa1129dc70a5f4f91a6838157bd24b franciscosousajsp <franciscosousajsp@gmail.com> 1663644492 -0300	commit: finalizando o delete da categoria
+5578359061fa1129dc70a5f4f91a6838157bd24b d3a2426481941b4ba25edacf342044c854f98de0 franciscosousajsp <franciscosousajsp@gmail.com> 1663692897 -0300	commit: finalização do update de categoria
+d3a2426481941b4ba25edacf342044c854f98de0 7b5dc14d49e1bff2213d6bc042efbf79e199288f franciscosousajsp <franciscosousajsp@gmail.com> 1663698480 -0300	commit: criacao do read livros
+7b5dc14d49e1bff2213d6bc042efbf79e199288f 334d8cbd8ad92fc424f43ba5cb1b802b882c654b franciscosousajsp <franciscosousajsp@gmail.com> 1663707220 -0300	commit: criacao do create do livro
+334d8cbd8ad92fc424f43ba5cb1b802b882c654b 797e9fe4ff67bccd74636aea3d03c44ef156e062 franciscosousajsp <franciscosousajsp@gmail.com> 1663709954 -0300	commit: update do livro
+797e9fe4ff67bccd74636aea3d03c44ef156e062 1647a9782273e6dd608224c2a12e3dbd8d7362e6 franciscosousajsp <franciscosousajsp@gmail.com> 1663718846 -0300	commit: delete finalizado do livro

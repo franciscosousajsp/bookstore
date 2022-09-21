@@ -1,0 +1,23 @@
+form{
+    width: 90%;
+    margin: auto;
+}
+
+.home{
+    margin: 1rem auto;
+    text-align: center;
+}
+
+button{
+    width: 100%;
+}
+
+.mat-card {
+    background-color: rgb(39, 39, 37);
+    color: white;
+}
+
+.subtitle{
+    color: white;
+}
+
